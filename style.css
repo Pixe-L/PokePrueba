@@ -43,7 +43,8 @@ body {
 }
 
 .poke {
- width: 150px;
+ width: 200px;
+ object-fit: cover;
 }
 
 .charizard {
@@ -101,12 +102,12 @@ h3 {
  }
 
  main {
-  width: 70%;
+  width: 60%;
   margin: 0 auto;
  }
 
  .pokemon {
-  margin: 0;
+  margin-left: 6.5rem;
   padding: 0 30px 0 30px;
  }
 
@@ -124,12 +125,13 @@ h3 {
  }
 
  .poke {
-  width: 300px;
-  height: 350px;
+  width: 400px;
+  object-fit: contain;
  }
 
  .charizard {
   display: flex;
+  justify-content: center;
  }
 
  .morePoke {
