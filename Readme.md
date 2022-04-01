@@ -1,6 +1,6 @@
 # Pokedex sencillo [💻][git]
 
-[<div align="center"><img src="./assets/pixel.png" width="80px"></div>][yt]
+[<div align="center"><img src="./assets/PIXEL.png" width="80px"></div>][yt]
 
 ### Made with 🔨
 
